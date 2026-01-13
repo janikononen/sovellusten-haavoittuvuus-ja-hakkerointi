@@ -1,12 +1,6 @@
-# Sovellusten haavoittuvuus ja hakkerointi
+# h1 Scope First, Controls Later
 
-Nettisivu .md muodossa julkaistuna github pages avulla tehtävien palautusta varten haaga-helialle.
-
-## Tehtävät
-
-### h1 Scope First, Controls Later
-
-#### Perustaso
+## Perustaso
 
 <img width="1496" height="668" alt="image" src="https://github.com/janikononen/sovellusten-haavoittuvuus-ja-hakkerointi/blob/main/images/UI-UX%20-%20Hakkerointi%20kurssi%20_%20Jani.jpg" />
 
@@ -21,7 +15,7 @@ Keskeisiä rajapintoja ovat Github, Microsoft 365 ja OneDrive joihin tallennan t
 Näyttönä olemassa olevista virtuaalikoneista on kuvamuodossa, verkkoa en ole vielä määrittänyt missä nämä toimivat, koska joudun tutustumaan ohjeisiin siihen liittyen. [Tästä linkki repositoryyn](https://github.com/janikononen/sovellusten-haavoittuvuus-ja-hakkerointi) jonka ennalta tiedän mitä käytän kurssin aikana varmasti.
 <img width="1221" height="627" alt="image" src="https://github.com/janikononen/sovellusten-haavoittuvuus-ja-hakkerointi/blob/main/images/Screenshot%202026-01-13%20213419.png" />
 
-#### Sidotaan Standardiin
+## Sidotaan Standardiin
 
 | Sidosryhmä       | Tarve / Vaatimus                                                                           | ISO 27001 -vaatimusalue | Täyttyminen                                                                                                                                                              |
 | ---------------- | ------------------------------------------------------------------------------------------ | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
